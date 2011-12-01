@@ -13,8 +13,8 @@
 <feature
       id="org.talend.esb.m2e.connectors.cxf"
       label="m2e connector for cxf"
-      version="1.0.0.qualifier"
-      provider-name="bitstrings.org">
+      version="1.0.0"
+      provider-name="talend.com">
 
    <description url="">
       m2e connector for cxf

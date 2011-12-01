@@ -17,15 +17,15 @@ import org.eclipse.m2e.core.project.configurator.AbstractBuildParticipant;
 import org.eclipse.m2e.jdt.AbstractJavaProjectConfigurator;
 
 public class CxfWsdl2JavaProjectConfigurator extends
-		AbstractJavaProjectConfigurator {
+        AbstractJavaProjectConfigurator {
 
-	@Override
+    @Override
     protected String getOutputFolderParameterName()
     {
         return "sourceRoot";
     }
-	
-	@Override
+
+    @Override
     public AbstractBuildParticipant getBuildParticipant(
                     IMavenProjectFacade projectFacade,
                     MojoExecution execution,

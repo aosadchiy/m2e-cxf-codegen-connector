@@ -7,7 +7,7 @@
   http://www.eclipse.org/legal/epl-v10.html
 -->
 <site>
-    <feature url="features/org.talend.esb.m2e.connectors.cxf_0.0.0.qualifier.jar" id="org.talend.esb.m2e.connectors.cxf" version="0.0.0.qualifier">
+    <feature url="features/org.talend.esb.m2e.connectors.cxf_0.0.0.jar" id="org.talend.esb.m2e.connectors.cxf" version="0.0.0">
         <category name="m2eclipse-connectors-cxf"/>
     </feature>
     <category-def name="m2eclipse-connectors-cxf" label="Maven SCM Handler for EGit"/>
